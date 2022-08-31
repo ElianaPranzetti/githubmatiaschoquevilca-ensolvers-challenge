@@ -78,4 +78,6 @@ In frontend folder use:
 ```bash
 npm i 
 ```
+## In the frontend directory, you can run whit:
 
+### `npm start`
